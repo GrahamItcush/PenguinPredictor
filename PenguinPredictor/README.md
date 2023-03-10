@@ -1,2 +1,2 @@
 # PenguinPredictor
-A Tensorflow model created to predict the species of a penguin based on the penguins dataset
+A Tensorflow model created to predict the species of a penguin based on the penguins dataset in Google Colaboratory.
